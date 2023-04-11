@@ -1,0 +1,7 @@
+name:Bob
+age:60
+years coding:40
+birthday:1920-12-25 00:00:00
+first_languages:['C', 'Assembly', 'Python']
+favorite_languages:['Assembly', 'C', 'Python']
+language_intersection:['C', 'Assembly', 'Python']
